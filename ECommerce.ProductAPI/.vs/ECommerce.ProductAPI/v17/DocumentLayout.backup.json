@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ECommerce\\ECommerce.ProductAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DA708C-D39D-4479-A8B6-77335D7E8DE1}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|d:\\ecommerce\\ecommerce.productapi\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85DA708C-D39D-4479-A8B6-77335D7E8DE1}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerce.ProductAPI\\ProductAPI.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI.Presentation\\appsettings.json",
+              "ToolTip": "D:\\ECommerce\\ECommerce.ProductAPI\\ProductAPI.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductAPI.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T10:33:29.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
