@@ -41,7 +41,7 @@ namespace ECommerce.SharedLibrary.DI
             app.UseMiddleware<GlobalException>();
 
             // Register middleware to block all outsiders API calls
-            app.UseMiddleware<ListenToOnlyApiGateway>();
+            //app.UseMiddleware<ListenToOnlyApiGateway>();
             
             return app;
         }
