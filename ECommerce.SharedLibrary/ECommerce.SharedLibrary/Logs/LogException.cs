@@ -6,16 +6,16 @@ namespace ECommerce.SharedLibrary.Logs
     {
         public static void LogExceptions(Exception ex)
         {
-            LogToFile(ex);
-            LogToDebug(ex);
-            LogToConsole(ex);
+            LogToFile(ex.Message);
+            LogToDebugger(ex.Message);
+            LogToConsole(ex.Message);
         }
 
-        private static void LogToFile(Exception ex)
-            => Log.Information(ex.Message);
-        private static void LogToDebug(Exception ex)
-            => Log.Debug(ex.Message);
-        private static void LogToConsole(Exception ex)
-            => Log.Warning(ex.Message);
+        public static void LogToFile(string message)
+            => Log.Information(message);
+        public static void LogToDebugger(string message)
+            => Log.Debug(message);
+        public static void LogToConsole(string message)
+            => Log.Warning(message);
     }
 }
