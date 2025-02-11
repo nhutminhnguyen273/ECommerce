@@ -1,0 +1,12 @@
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\bin\Debug\net8.0\AuthenticationAPI.Domain.deps.json
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\bin\Debug\net8.0\AuthenticationAPI.Domain.dll
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\bin\Debug\net8.0\AuthenticationAPI.Domain.pdb
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.AssemblyInfo.cs
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.sourcelink.json
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.dll
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\refint\AuthenticationAPI.Domain.dll
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.pdb
+D:\ECommerce\ECommerce.AuthenticationAPI\AuthenticationAPI.Domain\obj\Debug\net8.0\ref\AuthenticationAPI.Domain.dll
