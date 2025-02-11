@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1XYN56XhY5A=",
+  "dgSpecHash": "1iM4YqE4t7I=",
   "success": true,
-  "projectFilePath": "D:\\E-Commerce\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhutm\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nhutm\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
